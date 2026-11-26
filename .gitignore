@@ -1,0 +1,18 @@
+# Maven build files
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Application data
+tasks.dat
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
